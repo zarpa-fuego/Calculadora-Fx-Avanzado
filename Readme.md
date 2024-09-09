@@ -6,7 +6,7 @@
 
 ![screenshoot](./img1.png)
 - Result
-![screenshoot](./img1.png)
+![screenshoot](./img.png)
 
 ## Support by
 - Bonnier Nilss Rodrigo
